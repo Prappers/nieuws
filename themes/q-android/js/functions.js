@@ -920,7 +920,7 @@ define([
 */
  
 if(AdMob) AdMob.createBanner({
-    adId: 'ca-app-pub-4240952659017661/6928905828', // Paste the ad unit ID we've have copied earlier
+    adId: 'ca-app-pub-4240952659017661/7980766063', // Paste the ad unit ID we've have copied earlier
     overlap: false,
     offsetTopBar: false,
     adSize: 'SMART_BANNER',
