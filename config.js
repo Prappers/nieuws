@@ -3,7 +3,7 @@ define( function ( require ) {
 	"use strict";
 
 	return {
-		app_slug : 'trump-nieuws',
+		app_slug : 'nieuws',
 		wp_ws_url : 'http://www.trumpnieuws.com/wp-appkit-api/nieuws',
 		wp_url : 'http://www.trumpnieuws.com',
 		theme : 'q-android',
