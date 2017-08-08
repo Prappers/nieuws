@@ -4,11 +4,11 @@ define( function ( require ) {
 
 	return {
 		app_slug : 'trump-nieuws',
-		wp_ws_url : 'http://www.trumpnieuws.com/wp-appkit-api/trump-nieuws',
+		wp_ws_url : 'http://www.trumpnieuws.com/wp-appkit-api/nieuws',
 		wp_url : 'http://www.trumpnieuws.com',
 		theme : 'q-android',
 		version : '1.0.0',
-		app_title : 'Trump Nieuws',
+		app_title : 'Nieuws',
 		app_platform : 'android',
 		gmt_offset : 2,
 		debug_mode : 'off',
